@@ -197,6 +197,10 @@ article {
   z-index: 1;
 }
 
+.icon-box a {
+  color: var(--orange-yellow-crayola);
+}
+
 .icon-box::before {
   content: "";
   position: absolute;
