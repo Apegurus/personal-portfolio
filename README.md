@@ -1,12 +1,6 @@
 # apeguru.dev
 
-Static one-page personal site for Apeguru, a DeFi operator and builder.
-
-## Local preview
-
-Run `python3 -m http.server 4173` from the repository root, then open
-`http://localhost:4173`.
-
-The site has no build step or framework. Its source is `index.html`, with
-styles in `assets/css/style.css` and the small timeline reveal in
-`assets/js/main.js`.
+Update the Now strip and timeline directly in `index.html`.
+Keep dates, claims, and links in the timeline together for quick review.
+Edit `assets/images/og-card.html`, then screenshot it at 1200×630 to regenerate `og-image.png`.
+Keep both favicon files in `assets/images/` when updating the mark.
