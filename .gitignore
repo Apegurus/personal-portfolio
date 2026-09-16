@@ -1,0 +1,12 @@
+# Auto Claude generated files
+.auto-claude/
+.auto-claude-security.json
+.auto-claude-status
+.claude_settings.json
+.security-key
+logs/security/
+
+# Local workspace artifacts
+.worktrees/
+.DS_Store
+Thumbs.db
